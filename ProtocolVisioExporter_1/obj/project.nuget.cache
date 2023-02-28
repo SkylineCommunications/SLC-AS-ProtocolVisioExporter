@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDShzMg+SuLfMzU1DkHCOv+PeFfHIwKx7J/GyKgM6ajyBze0/aaOcwzzz+dRvwgcQbkjjCGr10Q78CeUHnhr5w==",
+  "success": true,
+  "projectFilePath": "C:\\git\\github\\SLC-AS-ProtocolVisioExporter\\ProtocolVisioExporter_1\\ProtocolVisioExporter_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joey\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.dev.automation\\10.0.0.5\\skyline.dataminer.dev.automation.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.dev.common\\10.0.0.5\\skyline.dataminer.dev.common.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.protobufnet\\10.0.0.5\\skyline.dataminer.files.protobufnet.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.skyline.dataminer.storage.types\\10.0.0.5\\skyline.dataminer.files.skyline.dataminer.storage.types.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slanalyticstypes\\10.0.0.5\\skyline.dataminer.files.slanalyticstypes.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slloggerutil\\10.0.0.5\\skyline.dataminer.files.slloggerutil.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slmanagedautomation\\10.0.0.5\\skyline.dataminer.files.slmanagedautomation.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slnettypes\\10.0.0.5\\skyline.dataminer.files.slnettypes.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\skyline.dataminer.files.slprotobuflibrary\\10.0.0.5\\skyline.dataminer.files.slprotobuflibrary.10.0.0.5.nupkg.sha512",
+    "C:\\Users\\Joey\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
