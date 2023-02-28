@@ -68,7 +68,7 @@ public class Script
 	public void Run(Engine engine)
 	{
 		var dataminerInfo = (GetDataMinerInfoResponseMessage)engine.SendSLNetSingleResponseMessage(new GetInfoMessage(InfoType.DataMinerInfo));
-		var visioArchiveName = $"{dataminerInfo.AgentName}_{dataminerInfo.ID}_Visios.zip";
+		var visioArchiveName = $"{dataminerInfo.AgentName}_{dataminerInfo.ID}_ConnectorVisios.zip";
 		var visioArchivePath = Path.Combine(RootPath, visioArchiveName);
 
 		using (var archive = ZipFile.Open(visioArchivePath, ZipArchiveMode.Create))
